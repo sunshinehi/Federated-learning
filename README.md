@@ -15,6 +15,8 @@
 ### (ICML 2021)
 * [Personalized Federated Learning using Hypernetworks](http://proceedings.mlr.press/v139/shamsian21a.html)
 * [Exploiting Shared Representations for Personalized Federated Learning](http://proceedings.mlr.press/v139/collins21a.html)
+* [Ditto: Fair and Robust Federated Learning Through Personalization](http://proceedings.mlr.press/v139/li21h.html)
+* [Personalized Federated Learning using Hypernetworks](http://proceedings.mlr.press/v139/shamsian21a.html)
 ### (AAAI 2021)
 * [Federated Block Coordinate Descent Scheme for Learning Global and Personalized Models](https://ojs.aaai.org/index.php/AAAI/article/view/17240)
 * [Personalized Cross-Silo Federated Learning on Non-IID Data](https://ojs.aaai.org/index.php/AAAI/article/view/16960)
