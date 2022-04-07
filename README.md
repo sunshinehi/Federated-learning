@@ -12,6 +12,7 @@
 * [Personalized Federated Learning with Theoretical Guarantees: A Model-Agnostic Meta-Learning Approach](https://arxiv.org/abs/2002.07948)
 ### (WWW 2021)
 * [Hierarchical Personalized Federated Learning for User Modeling](https://dl.acm.org/doi/10.1145/3442381.3449926)
+* [PFA: Privacy-preserving Federated Adaptation for Effective Model Personalization](https://dl.acm.org/doi/10.1145/3442381.3449847)
 ### (ICML 2021)
 * [Personalized Federated Learning using Hypernetworks](http://proceedings.mlr.press/v139/shamsian21a.html)
 * [Exploiting Shared Representations for Personalized Federated Learning](http://proceedings.mlr.press/v139/collins21a.html)
