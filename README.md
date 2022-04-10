@@ -5,7 +5,7 @@
 * [Federated Optimization in Heterogeneous Networks](https://arxiv.org/abs/1812.06127)
 * [Tackling the Objective Inconsistency Problem in Heterogeneous Federated Optimization](https://arxiv.org/abs/2007.07481)
 * [Federated Visual Classification with Real-World Data Distribution](https://link.springer.com/chapter/10.1007/978-3-030-58607-2_5)
-* [联邦学习：技术角度的讲解（中文）Introduction to Federated Learning](https://www.youtube.com/watch?v=STxtRucv_zo&list=PLvOO0btloRns6egXueiRju4DXQjNRJQd5&index=6)
+* [联邦学习：技术角度的讲解（中文）Introduction to Federated Learning()](https://www.youtube.com/watch?v=STxtRucv_zo&list=PLvOO0btloRns6egXueiRju4DXQjNRJQd5&index=6)
 
 ## Part 2：Personalized Federated Learning
 
